@@ -1,2 +1,2 @@
-#CS224 Markov Chains Proj.
-##Elliott Long
+# CS224 Markov Chains Proj.
+## Elliott Long
